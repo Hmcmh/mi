@@ -1,0 +1,34 @@
+header a{
+	text-decoration: none;
+	font-size: 12px;
+	line-height: 40px;
+}
+header span{
+	font-size: 12px;
+	line-height: 40px;
+}
+.shangcheng{
+	float: left;
+}
+.right{
+	text-align: center;
+	width: 121px;
+	height: 40px;
+	background-color: black;
+	float: right;
+}
+.center{
+	width: 129px;
+	height: 40px;
+	background: pink;
+	float: right;
+	margin-right: 25px;
+}
+header{
+	width: 100%;
+	height: 40px;
+	background: red;
+	box-sizing: border-box;
+	padding-left: 340px;
+	padding-right: 340px;	 
+}
