@@ -1,0 +1,46 @@
+header a{
+	text-decoration: none;
+	font-size: 12px;
+	line-height: 40px;
+	color: #b0b0b0;
+}
+header a:hover{
+	color: #fff;
+}
+header span{
+	font-size: 12px;
+	line-height: 40px;
+	color: #b0b0b0	;
+}
+.shangcheng{
+	float: left;
+}
+.right{
+	text-align: center;
+	width: 121px;
+	height: 40px;
+	background-color: #424242;
+	float: right;
+}
+.right img{
+	width: 10px;
+	height: 10px;
+}
+.center{
+	width: 129px;
+	height: 40px;
+	background: #333333;
+	float: right;
+	margin-right: 25px;
+}
+.center span{
+	color: #b0b0b0;
+}
+header{
+	width: 100%;
+	height: 40px;
+	background: #333333;
+	box-sizing: border-box;
+	padding-left: 340px;
+	padding-right: 340px;	 
+}
